@@ -1,0 +1,6 @@
+# change port 80 to 8080
+#router_http_port: 8080
+# host_mailhog_port: "8025"
+# phpmyadmin_port: "8036"
+# phpmyadmin_https_port: "8037"
+# mailhog_https_port: "8026"

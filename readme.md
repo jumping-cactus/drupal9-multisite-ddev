@@ -52,4 +52,6 @@
     wget https://raw.githubusercontent.com/drud/ddev-contrib/master/recipes/drupal8-multisite/dot.ddev/config.multisite.yaml -O .ddev/config.multisite.yaml
     wget https://raw.githubusercontent.com/drud/ddev-contrib/master/recipes/drupal8-multisite/web/sites/sites.php -O web/sites/sites.php
     wget https://raw.githubusercontent.com/drud/ddev-contrib/master/recipes/drupal8-multisite/web/sites/umami/settings.php -O web/sites/umami/settings.php
-    wget https://raw.githubusercontent.com/drud/ddev-contrib/master/recipes/drupal8-multisite/web/sites/default/settings.base.php -O web/sites/default/settings.base.php
+    wget https://raw.githubusercontent.com/drud/ddev-contrib/master/recipes/drupal8-multisite/web/sites/basic/settings.php -O web/sites/basic/settings.php
+    #wget https://raw.githubusercontent.com/drud/ddev-contrib/master/recipes/drupal8-multisite/web/sites/default/settings.base.php -O web/sites/default/settings.base.php
+    
